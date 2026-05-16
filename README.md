@@ -1,6 +1,5 @@
 # Analisis de Movilidad Urbana en LATAM
 
-### Data
 ### Dataset 1: tomtom_traffic.csv
 Registra información sobre niveles de tráfico y congestión en tiempo real en distintas ciudades monitoreadas por TomTom, una empresa global de geolocalización.
 
@@ -24,6 +23,13 @@ Flujo General del Proyecto
 | **5** | Combinar datasets de tráfico y economía | Unir los dos DataFrames en un solo dataset con información unificada por ciudad. |
 | **6** | Visualizar relaciones entre variables | Generar gráficos para explorar patrones entre tráfico y economía. |
 | **7** | Elaborar informe e incluir reflexión final | Redactar un informe ejecutivo con hallazgos, implicaciones y reflexiones personales sobre la relación entre economía y movilidad. |
+
+### Herramientas
+
+* Python, Pandas, NumPy, Seaborn, Matplotlib
+
+
+
 
 
 
