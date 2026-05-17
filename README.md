@@ -6,6 +6,14 @@ Registra información sobre niveles de tráfico y congestión en tiempo real en 
 ### Dataset 2: oecd_city_economy.csv
 Contiene indicadores anuales sobre economía urbana, empleo, contaminación y población recopilados por la OECD (Organización para la Cooperación y el Desarrollo Económicos).
 
+### Herramientas
+
+![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23357ebd.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23357ebd.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
+
 ### 💡 Preguntas del negocio:
 
 * ¿Qué ciudades presentan alta congestión y baja productividad económica?
@@ -24,10 +32,3 @@ Flujo General del Proyecto
 | **6** | Visualizar relaciones entre variables | Generar gráficos para explorar patrones entre tráfico y economía. |
 | **7** | Elaborar informe e incluir reflexión final | Redactar un informe ejecutivo con hallazgos, implicaciones y reflexiones personales sobre la relación entre economía y movilidad. |
 
-### Herramientas
-
-![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23357ebd.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23357ebd.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
